@@ -1,42 +1,24 @@
-<h1 align="center">Tolendi Tastybay</h1>
+# Tolendi Tastybay
 
-<p align="center">
-  <strong>Product Manager, Data & AI</strong><br>
-  I build decision products for messy data and complex operations.
-</p>
+**Product Manager · AI Product Builder**
 
-<p align="center">
-  <a href="https://tolendi.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/tolendi">LinkedIn</a> ·
-  <a href="mailto:tolendi.tastybay@gmail.com">Email</a>
-</p>
+I lead discovery, define what to build, and work with engineering and design through rollout. My work spans carrier finance, regulatory review, enterprise budgeting, and public infrastructure. I started in financial audit and am completing an M.S. in Business Analytics at UC Davis.
 
-## My story
+[Portfolio](https://tolendi.com/) · [CV](https://tolendi.com/tolendi-tastybay-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/tolendi) · [Email](mailto:tolendi.tastybay@gmail.com)
 
-I started in financial audit, where I saw how fragmented data and manual workflows slow down high-stakes decisions. That experience pulled me into product management—first building decision-support and enterprise platforms, then data and AI products that help people act on complex evidence.
+## Selected case studies
 
-Today, I lead products from discovery through production and am completing an MS in Business Analytics at UC Davis. I care about the layer between a model and a decision: the workflow, tradeoffs, telemetry, and trust that turn technical capability into a useful product.
+- **NocTeam.** I prioritized one investigation view for invoice, bank, and factoring evidence. Reported median payment-exception resolution fell from 4.6 to 1.8 days. [Explore the carrier payment example](https://tolendi.com/work/trucking-ai#example)
+- **UC Law Center for Innovation.** I defined rules-first FDA record review and a path for analysts to resolve exceptions. Reported reviewer effort fell from 54 to 17 minutes per 1,000 records. [Try the FDA review example](https://tolendi.com/work/pharmaceutical-matching#example)
+- **Center for Strategic Initiatives · Enterprise budgeting.** I led product strategy and rollout. In the reported onboarding comparison, the share of new departments reaching their first approval within two weeks rose from 43% to 74%. [Compare the onboarding examples](https://tolendi.com/work/enterprise-reporting#example)
+- **Center for Strategic Initiatives · Infrastructure planning.** I defined how reviewers could inspect a recommendation’s evidence. In the reported comparison, proposals citing platform recommendations rose from 32% to 67%. [Compare the ranking and decision brief](https://tolendi.com/work/infrastructure-recommendation#example)
 
-## What I build
+The interactive examples use fictional records. The case studies identify the source and scope of the project-reported results.
 
-- **Decision products** that turn complex data into clear, explainable actions
-- **Data and AI workflows** that combine deterministic systems with ML or LLMs where they add value
-- **Enterprise platforms** shaped around adoption, operations, and measurable outcomes
-- **0 → 1 products** tested against real user behavior, not just technical feasibility
+## Public repositories
 
-## Selected work
+- [Football Scouting Project](https://github.com/mazy-kz/Football_Scouting_project) — position-based player similarity for scouting.
+- [Financial Shock Simulator](https://github.com/mazy-kz/Distress-test-Financial-Shock-Simulator-for-non-profits) — nonprofit financial distress modeling and stress scenarios.
+- [AI in Finance](https://github.com/mazy-kz/HAC_AI_In_Finance) — applied AI experiments for financial decision-making.
 
-- **[Pharmaceutical data-matching platform](https://tolendi.com/work/pharmaceutical-matching)** — reconciled 50K+ FDA records, cut review time by 99%, and reserved the LLM for ambiguous cases
-- **[Infrastructure investment platform](https://tolendi.com/work/infrastructure-recommendation)** — turned 16M+ data points into explainable recommendations that influenced $40M+ in allocation decisions
-- **[Enterprise finance and reporting platform](https://tolendi.com/work/enterprise-reporting)** — led a 20-person team and increased workflow conversion by 33%
-- **[AI operations platform for small trucking carriers](https://tolendi.com/work/trucking-ai)** — a functional MVP built from real carrier data, interviews, and prototype tests
-
-## A few repositories
-
-- **[Football Scouting Project](https://github.com/mazy-kz/Football_Scouting_project)** — player similarity, value prediction, and scouting recommendations
-- **[Financial Shock Simulator](https://github.com/mazy-kz/Distress-test-Financial-Shock-Simulator-for-non-profits)** — nonprofit financial vulnerability explored through an interactive decision tool
-- **[AI in Finance](https://github.com/mazy-kz/HAC_AI_In_Finance)** — applied AI experiments for financial decision-making
-
-## Current focus
-
-I am looking for Product Manager opportunities in data, AI, and enterprise software. Based in the San Francisco Bay Area and open to relocation.
+Based in the San Francisco Bay Area and open to relocation.
